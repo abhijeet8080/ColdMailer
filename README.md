@@ -96,6 +96,6 @@ ISC License
 
 Abhijeet Kadam
 - Email: kadamabhijeet021@gmail.com
-- LinkedIn: [Abhijeet Kadam](https://www.linkedin.com/in/abhijeet-kadam-a4202622b/)
+- LinkedIn: [Abhijeet Kadam](https://www.linkedin.com/in/abhijeetkadam21/)
 - GitHub: [abhijeet8080](https://github.com/abhijeet8080)
 - Portfolio: [abhijeet-kadam.vercel.app](https://abhijeet-kadam.vercel.app/) 
