@@ -1,0 +1,547 @@
+[{
+  "name": "Martin Sosic",
+  "company_name": "Wasp",
+  "role": "Full stack Developer",
+  "mail_id": "martin@wasp-lang.dev",
+  "linkedIn_url": "https://www.linkedin.com/in/martinsosic/",
+  "mail_sent": true,
+  "replied":true
+},
+{
+  "name": "Sav Gadoo",
+  "company_name": "Kyber",
+  "role": "Full stack Developer",
+  "mail_id": "sav@askkyber.com",
+  "linkedIn_url": "https://www.linkedin.com/in/savtantergadoo/",
+  "mail_sent": false
+},{
+  "name": "Alexandra Zatarain ",
+  "company_name": "Eight Sleep",
+  "role": "Full stack Developer",
+  "mail_id": "alexandra@eightsleep.com",
+  "linkedIn_url": "https://www.linkedin.com/in/alexandrazatarain/",
+  "mail_sent": false
+},{
+  "name": "Heang Chan",
+  "company_name": "Prelim",
+  "role": "Full stack Developer",
+  "mail_id": "heang.chan@prelim.com",
+  "linkedIn_url": "https://www.linkedin.com/in/heangchan/",
+  "mail_sent": false
+},{
+  "name": "Satyam Baranwal",
+  "company_name": "Codingal",
+  "role": "Full stack Developer",
+  "mail_id": "satyam.baranwal@codingal.com",
+  "linkedIn_url": "https://www.linkedin.com/in/satyam-baranwal/",
+  "mail_sent": false
+},{
+  "name": "Jin Chang",
+  "company_name": "Fieldguide",
+  "role": "Full stack Developer",
+  "mail_id": "jin@fieldguide.io",
+  "linkedIn_url": "https://www.linkedin.com/in/jinwchang/",
+  "mail_sent": false
+},{
+  "name": "Ahmed Nasser",
+  "company_name": "Sully.ai",
+  "role": "Full stack Developer",
+  "mail_id": "nasser@sully.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/realahmednasser",
+  "mail_sent": false
+},{
+  "name": "Parker Conrad",
+  "company_name": "Rippling",
+  "role": "Full stack Developer",
+  "mail_id": "pconrad@rippling.com",
+  "linkedIn_url": "https://www.linkedin.com/in/parkerconrad/",
+  "mail_sent": false
+},{
+  "name": "Rafi Sands",
+  "company_name": "Tandem",
+  "role": "Full stack Developer",
+  "mail_id": "rafi@tandem.space",
+  "linkedIn_url": "https://www.linkedin.com/in/rafisands/",
+  "mail_sent": false
+},
+{
+  "name": "Lukas Haffer",
+  "company_name": "Cascading AI",
+  "role": "Full stack Developer",
+  "mail_id": "lukas@cascading.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/lukashaffer/",
+  "mail_sent": false
+},{
+  "name": "Haris Ikram",
+  "company_name": "CandorIQ",
+  "role": "Full stack Developer",
+  "mail_id": "haris@candoriq.com",
+  "linkedIn_url": "https://www.linkedin.com/in/harisikram/",
+  "mail_sent": false
+},{
+  "name": "Vlad Matsiiako",
+  "company_name": "Infisical",
+  "role": "Full stack Developer",
+  "mail_id": "vlad@infisical.com",
+  "linkedIn_url": "https://www.linkedin.com/in/vmatsiiako/",
+  "mail_sent": false
+},{
+  "name": "Gabriel Bayomi Kalejaiye",
+  "company_name": "Openlayer",
+  "role": "Full stack Developer",
+  "mail_id": "gabriel@openlayer.com",
+  "linkedIn_url": "https://www.linkedin.com/in/gbayomi/",
+  "mail_sent": false
+},{
+  "name": "Aditya Chintapalli",
+  "company_name": "BusinessOnBot",
+  "role": "Full stack Developer",
+  "mail_id": "aditya@businessonbot.com",
+  "linkedIn_url": "https://www.linkedin.com/in/aditya-chintapalli-a37943110/  ",
+  "mail_sent": false
+},{
+  "name": "Alex Leonardi",
+  "company_name": "VectorShift",
+  "role": "Full stack Developer",
+  "mail_id": "alex@vectorshift.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/alexanderleonardi/",
+  "mail_sent": false
+},{
+  "name": "Milan Shen",
+  "company_name": "Centauri AI",
+  "role": "Full stack Developer",
+  "mail_id": "milan@centauri-ai.tech",
+  "linkedIn_url": "https://www.linkedin.com/in/milan-shen-860b5062/",
+  "mail_sent": false
+},{
+  "name": "Deep Singhvi",
+  "company_name": "Fern",
+  "role": "Full stack Developer",
+  "mail_id": "deep@buildwithfern.com",
+  "linkedIn_url": "https://www.linkedin.com/in/deep-singhvi-1432659b/",
+  "mail_sent": false
+},
+
+{
+  "name": "Ori Eldarov",
+  "company_name": "OffDeal",
+  "role": "Full stack Developer",
+  "mail_id": "ori@offdeal.io",
+  "linkedIn_url": "https://www.linkedin.com/in/eldarov/",
+  "mail_sent": false
+},
+{
+  "name": "Adit Abraham",
+  "company_name": "Reducto",
+  "role": "Full stack Developer",
+  "mail_id": "adit@reducto.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/aditabraham/",
+  "mail_sent": false
+},
+{
+  "name": "Mark Milastsivy",
+  "company_name": "Firstbase.io",
+  "role": "Full stack Developer",
+  "mail_id": "mark@firstbase.io",
+  "linkedIn_url": "https://www.linkedin.com/in/markmilastsivy/",
+  "mail_sent": false
+},
+{
+  "name": "Mahmoud Felfel",
+  "company_name": "PlayHT",
+  "role": "Full stack Developer",
+  "mail_id": "mahmoud@play.ht",
+  "linkedIn_url": "https://www.linkedin.com/in/mahmoud-felfel-33024252/",
+  "mail_sent": false
+},
+
+{
+  "name": "Matt Feury",
+  "company_name": "Flock Safety",
+  "role": "Full stack Developer",
+  "mail_id": "matt@flocksafety.com",
+  "linkedIn_url": "https://www.linkedin.com/in/matt-feury-a105a339/",
+  "mail_sent": false
+},
+{
+  "name": "Chad Munroe",
+  "company_name": "Jupiter",
+  "role": "Full stack Developer",
+  "mail_id": "cmunroe@jupiter.co",
+  "linkedIn_url": "https://www.linkedin.com/in/chadmunroe/",
+  "mail_sent": false
+},
+{
+  "name": "Alpha Lee",
+  "company_name": "PostEra",
+  "role": "Full stack Developer",
+  "mail_id": "alpha.lee@postera.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/alpha-lee-66625473/",
+  "mail_sent": false
+},
+{
+  "name": "Felipe Kettlun",
+  "company_name": "Blissway",
+  "role": "Full stack Developer",
+  "mail_id": "felipe@blissway.com",
+  "linkedIn_url": "https://www.linkedin.com/in/felipekettlun/",
+  "mail_sent": false
+},
+{
+  "name": "Ashi Dissanayake",
+  "company_name": "Spaceium Inc",
+  "role": "Full stack Developer",
+  "mail_id": "ashi.dissanayake@spaceium.com",
+  "linkedIn_url": "https://www.linkedin.com/in/ashi-dissanayake/",
+  "mail_sent": false
+},
+{
+  "name": "Tom Hartke",
+  "company_name": "Undermind",
+  "role": "Full stack Developer",
+  "mail_id": "tom@undermind.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/thomas-hartke-229a0679/",
+  "mail_sent": false
+ }
+
+,{
+  "name": "Nico Laqua ",
+  "company_name": "Corgi",
+  "role": "Full stack Developer",
+  "mail_id": "nico@basket.tech",
+  "linkedIn_url": "https://www.linkedin.com/in/nico-laqua-302b17233/",
+  "mail_sent": false
+},{
+  "name": "Josh Lampen",
+  "company_name": "Cartage",
+  "role": "Full stack Developer",
+  "mail_id": "josh@cartage.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/joshlampen/",
+  "mail_sent": false
+},
+{
+  "name": "Ernest Semerda",
+  "company_name": "Veryfi",
+  "role": "Full stack Developer",
+  "mail_id": "ernest@veryfi.com",
+  "linkedIn_url": "https://www.linkedin.com/in/semerda/",
+  "mail_sent": false
+},
+{
+  "name": "Roger Larach",
+  "company_name": "R2",
+  "role": "Full stack Developer",
+  "mail_id": "roger.larach@r2.co",
+  "linkedIn_url": "https://www.linkedin.com/in/larachr/",
+  "mail_sent": false
+},
+{
+  "name": "Jacky Lin",
+  "company_name": "Trellis",
+  "role": "Full stack Developer",
+  "mail_id": "jacky@usetrellis.co",
+  "linkedIn_url": "https://www.linkedin.com/in/jhslin/",
+  "mail_sent": false
+},
+{
+  "name": "Jacky Lin",
+  "company_name": "Trellis",
+  "role": "Full stack Developer",
+  "mail_id": "jacky@usetrellis.co",
+  "linkedIn_url": "https://www.linkedin.com/in/jhslin/",
+  "mail_sent": false
+},
+
+{
+  "name": "Vivian Wang",
+  "company_name": "Landed",
+  "role": "Full stack Developer",
+  "mail_id": "vivian@gotlanded.com",
+  "linkedIn_url": "https://www.linkedin.com/in/vivian-wang-b0a67a43/",
+  "mail_sent": false
+},
+{
+  "name": "Phelim Bradley",
+  "company_name": "Prolific",
+  "role": "Full stack Developer",
+  "mail_id": "phelimb@prolific.com",
+  "linkedIn_url": "https://www.linkedin.com/in/phelim-bradley-84300826/",
+  "mail_sent": false
+}
+, {
+"name": "Finn Bauer",
+"company_name": "kapa.ai",
+"role": "Full stack Developer",
+"mail_id": "finn@kapa.ai",
+"linkedIn_url": "https://www.linkedin.com/in/finn-bauer-533bb0130/?originalSubdomain=de",
+"mail_sent": false
+},
+{
+"name": "Michael Lee",
+"company_name": "Biodock",
+"role": "Full stack Developer",
+"mail_id": "michael@biodock.ai",
+"linkedIn_url": "https://www.linkedin.com/in/mike21/",
+"mail_sent": false
+},
+{
+"name": "Shiz Aoki",
+"company_name": "BioRender",
+"role": "Full stack Developer",
+"mail_id": "shiz@biorender.com",
+"linkedIn_url": "https://www.linkedin.com/in/shizukaaoki/",
+"mail_sent": false
+}
+,
+{
+"name": "Mark Milastsivy",
+"company_name": "Firstbase.io",
+"role": "Full stack Developer",
+"mail_id": "mark@firstbase.io",
+"linkedIn_url": "https://www.linkedin.com/in/markmilastsivy/",
+"mail_sent": false
+},
+{
+"name": "Banks Hunter",
+"company_name": "Charge Robotics",
+"role": "Full stack Developer",
+"mail_id": "banks@chargerobotics.com",
+"linkedIn_url": "https://www.linkedin.com/in/banksh/",
+"mail_sent": false
+},
+{
+  "name": "Aseem Gupta",
+  "company_name": "SuperKalam",
+  "role": "Full stack Developer",
+  "mail_id": "aseem@kalam.in",
+  "linkedIn_url": "https://linkedin.com/in/-aseemgupta/",
+  "mail_sent": false
+},
+{
+  "name": "Warren Lee",
+  "company_name": "HyperDX",
+  "role": "Full stack Developer",
+  "mail_id": "warren@hyperdx.io",
+  "linkedIn_url": "https://www.linkedin.com/in/warren-jonhow-lee-7b91b3187/",
+  "mail_sent": false
+}
+
+,{
+  "name": "Vinay Pinnaka",
+  "company_name": "JustPaid",
+  "role": "Full stack Developer",
+  "mail_id": "vinay@justpaid.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/vinaydatta2020/",
+  "mail_sent": false
+},
+{
+  "name": "Dmitry Vedenyapin",
+  "company_name": "Peakflo",
+  "role": "Full stack Developer",
+  "mail_id": "dmitry@peakflo.co",
+  "linkedIn_url": "https://www.linkedin.com/in/dmitryvedenyapin/",
+  "mail_sent": false
+},
+{
+  "name": "Chris Blaser",
+  "company_name": "Prelim",
+  "role": "Full stack Developer",
+  "mail_id": "chris@prelim.com",
+  "linkedIn_url": "https://www.linkedin.com/in/christopherblaser/",
+  "mail_sent": false
+},
+{
+  "name": "Brad Dwye",
+  "company_name": "Roboflow",
+  "role": "Full stack Developer",
+  "mail_id": "brad@roboflow.com",
+  "linkedIn_url": "https://www.linkedin.com/in/brad-dwyer-b6b4136/",
+  "mail_sent": false
+},
+{
+  "name": "Rishab Ramanathan",
+  "company_name": "Openlayer ",
+  "role": "Full stack Developer",
+  "mail_id": "rishab@openlayer.com",
+  "linkedIn_url": "https://www.linkedin.com/in/rishramanathan/",
+  "mail_sent": false
+},{
+  "name": "Ben Firshman",
+  "company_name": "Replicate ",
+  "role": "Full stack Developer",
+  "mail_id": "ben@replicate.com",
+  "linkedIn_url": "https://www.linkedin.com/in/bfirsh/",
+  "mail_sent": false
+},
+{
+  "name": "Kesava Kirupa Dinakaran",
+  "company_name": "Luminai",
+  "role": "Full stack Developer",
+  "mail_id": "kesava@luminai.com",
+  "linkedIn_url": "https://www.linkedin.com/in/kesavakirupa/",
+  "mail_sent": false
+},
+{
+  "name": "Jorge Zamora",
+  "company_name": "Golinks ",
+  "role": "Full stack Developer",
+  "mail_id": "jzamora@golinks.io",
+  "linkedIn_url": "https://www.linkedin.com/in/mrjorgezamora/",
+  "mail_sent": false
+},
+{
+  "name": "Ishan Balakrishnan",
+  "company_name": "Cair Health ",
+  "role": "Full stack Developer",
+  "mail_id": "ishan@cairhealth.com",
+  "linkedIn_url": "https://www.linkedin.com/in/ishanbalakrishnan/",
+  "mail_sent": false
+},
+{
+  "name": "Ilia Baranov",
+  "company_name": "Polymath Robotics",
+  "role": "Full stack Developer",
+  "mail_id": "ilia@polymathrobotics.com",
+  "linkedIn_url": "https://www.linkedin.com/in/iliabaranov/",
+  "mail_sent": false
+},
+
+{
+  "name": "Stephen Grabowski",
+  "company_name": "Gordian Software",
+  "role": "Full stack Developer",
+  "mail_id": "stephen@gordiansoftware.com",
+  "linkedIn_url": "https://www.linkedin.com/in/stgrabowski/",
+  "mail_sent": false
+},
+{
+  "name": "Abel Mengistu",
+  "company_name": "FlutterFlow ",
+  "role": "Full stack Developer",
+  "mail_id": "abel@flutterflow.io",
+  "linkedIn_url": "https://www.linkedin.com/in/asmengistu/",
+  "mail_sent": false
+}
+,
+{
+  "name": "Chris Pisarski",
+  "company_name": "Crustdata",
+  "role": "Full stack Developer",
+  "mail_id": "chris@chetnetwork.com",
+  "linkedIn_url": "https://www.linkedin.com/in/chris-pisarski/",
+  "mail_sent": false
+},
+{
+  "name": "Nicholas Hui",
+  "company_name": "MedMe Health",
+  "role": "Full stack Developer",
+  "mail_id": "nick@medmehealth.com",
+  "linkedIn_url": "https://www.linkedin.com/in/nihui/",
+  "mail_sent": false
+},
+{
+  "name": "Michael Moyo",
+  "company_name": "Ocular AI",
+  "role": "Full stack Developer",
+  "mail_id": "michael@useocular.com",
+  "linkedIn_url": "https://www.linkedin.com/in/michaelmoyo/",
+  "mail_sent": false
+},
+{
+  "name": "Clément Salaün",
+  "company_name": "Formance",
+  "role": "Full stack Developer",
+  "mail_id": "clem@formance.com",
+  "linkedIn_url": "https://www.linkedin.com/in/clementsalaun/",
+  "mail_sent": false
+},
+{
+  "name": "Nicholas Charriere",
+  "company_name": "Srcbook",
+  "role": "Full stack Developer",
+  "mail_id": "nicholas@axflow.dev",
+  "linkedIn_url": "https://www.linkedin.com/in/nicholas-charriere/",
+  "mail_sent": false
+},
+{
+  "name": "David Okao",
+  "company_name": "EdgeTrace",
+  "role": "Full stack Developer",
+  "mail_id": "david@edgetrace.ai",
+  "linkedIn_url": "https://www.linkedin.com/in/davidokao/",
+  "mail_sent": false
+},
+{
+  "name": "Arjun Mahadevan",
+  "company_name": "Doola",
+  "role": "Full stack Developer",
+  "mail_id": "arjun@doola.com",
+  "linkedIn_url": "https://www.linkedin.com/in/mahadevanarjun/",
+  "mail_sent": false
+},
+{
+  "name": "Pranab Krishnan",
+  "company_name": "Zeal",
+  "role": "Full stack Developer",
+  "mail_id": "pranab@zeal.com",
+  "linkedIn_url": "https://www.linkedin.com/in/pranab-krishnan/",
+  "mail_sent": false
+},
+{
+  "name": "Aleem Mawani",
+  "company_name": "Streak",
+  "role": "Full stack Developer",
+  "mail_id": "aleem@streak.com",
+  "linkedIn_url": "https://www.linkedin.com/in/aleemmawani/",
+  "mail_sent": false
+},
+{
+  "name": "Julian Colina",
+  "company_name": "Haystack",
+  "role": "Full stack Developer",
+  "mail_id": "julian@usehaystack.io",
+  "linkedIn_url": "https://www.linkedin.com/in/julian-colina-b430b776/",
+  "mail_sent": false
+},
+{
+  "name": "Emir Atli",
+  "company_name": "HockeyStack",
+  "role": "Full stack Developer",
+  "mail_id": "emir@hockeystack.com",
+  "linkedIn_url": "https://www.linkedin.com/in/emircatli/",
+  "mail_sent": false
+},
+{
+  "name": "Anna Berger",
+  "company_name": "Trayd",
+  "role": "Full stack Developer",
+  "mail_id": "anna@buildtrayd.com",
+  "linkedIn_url": "https://www.linkedin.com/in/anna-berger-39497a72/",
+  "mail_sent": false
+},
+  {
+    "name": "Gregg Mojica",
+    "company_name": "Alloy Automation",
+    "role": "Full stack Developer",
+    "mail_id": "gregg@runalloy.com",
+    "linkedIn_url": "https://www.linkedin.com/in/greggmojica/",
+    "mail_sent": false
+  },
+  {
+    "name": "Matias Gath",
+    "company_name": "Pulppo",
+    "role": "Full stack Developer",
+    "mail_id": "matias@pulppo.com",
+    "linkedIn_url": "https://www.linkedin.com/in/matias-gath-6881314/",
+    "mail_sent": false
+  },
+  {
+    "name": "Bukhtar Khan",
+    "company_name": "Finni Health",
+    "role": "Full stack Developer",
+    "mail_id": "bucky@finnihealth.com",
+    "linkedIn_url": "https://www.linkedin.com/in/bukhtarkhan/",
+    "mail_sent": false
+  }
+    
+]
